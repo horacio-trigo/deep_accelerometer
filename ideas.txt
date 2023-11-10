@@ -1,0 +1,6 @@
+Para aumentar los datos en baseline, en lugar de hacer la media a lo largo de la semana, puedo poner una variable para cada día. Es decir, PAXMINSB_Lunes, PAXMINSB_Martes...
+Prueba el XGBoost
+Probaremos 3 tipos de arquitecturas de red neuronal:
+- Convolucional
+- Recurrente
+- Transformer
