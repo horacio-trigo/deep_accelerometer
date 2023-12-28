@@ -1,4 +1,5 @@
 .environment/
 __pycache__/
 matrix_3d.npy
+*.csv
 
