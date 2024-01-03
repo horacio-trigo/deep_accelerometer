@@ -2,4 +2,4 @@
 __pycache__/
 matrix_3d.npy
 *.csv
-
+data/*
