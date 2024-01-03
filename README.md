@@ -12,8 +12,18 @@ Deep accelerometry is an analysis of accelerometer data using various machine le
 - [License](#license)
 - [Contact](#contact)
 
-## Installation
-(Instructions on how to install and set up the project.)
+## Environment
+
+We use a [poetry](https://python-poetry.org) environment. 
+
+## First time setup
+
+1. Install poetry if you haven't already
+2. Navigate to this project's directory in your terminal and run `poetry install`
+3. Activate the environment in the terminal with `poetry shell` (you have to be in the project's directory)
+4. Make this environment showable as an option when selecting jupyter kernels: `ipython kernel install --user --name <name-of-env> --display-name "<display_name>"`
+
+Now this kernel will show up as an option in your jupyter notebooks.
 
 ## Usage
 (Instructions on how to use the project, including example commands.)
