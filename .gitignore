@@ -2,4 +2,6 @@
 __pycache__/
 matrix_3d.npy
 *.csv
+*.pkl
+deep_accelerometer.code-workspace
 data/*
