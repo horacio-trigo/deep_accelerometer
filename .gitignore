@@ -1,6 +1,8 @@
 .environment/
 __pycache__/
 matrix_3d.npy
+matrix_3d_resampled.npy
+Deep Learning EXPLICADO.ipynb
 *.csv
 *.pkl
 deep_accelerometer.code-workspace
