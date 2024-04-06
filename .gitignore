@@ -5,5 +5,6 @@ matrix_3d_resampled.npy
 Deep Learning EXPLICADO.ipynb
 *.csv
 *.pkl
+*.PNG
 deep_accelerometer.code-workspace
 data/*
