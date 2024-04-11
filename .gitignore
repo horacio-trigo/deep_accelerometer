@@ -6,5 +6,6 @@ Deep Learning EXPLICADO.ipynb
 *.csv
 *.pkl
 *.PNG
+*.jpg
 deep_accelerometer.code-workspace
 data/*
