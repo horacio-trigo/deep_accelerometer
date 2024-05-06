@@ -7,6 +7,7 @@ Deep Learning EXPLICADO.ipynb
 *.pkl
 *.PNG
 *.jpg
+*.npy
 deep_accelerometer.code-workspace
 data/*
 Errors/*
